@@ -1,3 +1,6 @@
 # Site-barbearia-
 
-site realizado junto ao curso de html e css da Alura
+PROJETO PROPOSTO PELO CURSO HTML E CSS DA INSTITUIÇÃO DE ENSINO ALURA 
+
+VERSÃO 1.0 DO SITE
+
